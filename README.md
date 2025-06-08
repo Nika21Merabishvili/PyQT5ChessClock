@@ -1,2 +1,2 @@
 # PyQT5ChessClock
-ჭადრაკის საათი, PyQt5-ის ბაზაზე. დემოს ლინკი: https://youtu.be/ximw4AH0eeY
+ჭადრაკის საათი, PyQt5-ის ბაზაზე. დემოს ლინკი: https://youtu.be/ximw4AH0eeY (ჩემი ხმა ცოტა ხმადაბლა ისმის, მაგრამ გაგება შეიძლება :D )
